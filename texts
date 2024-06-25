@@ -1,0 +1,7 @@
+I wanted to give you a quick update on the script I've been working on. The     
+script is designed to merge multiple job execution reports into a single        
+consolidated report called mergeFinal. It processes the individual reports,     
+aggregates the data, and outputs a comprehensive summary that includes details  
+such as the number of inquiries added, inquiries not added, and physical PIN    
+merges. This should make it easier to review and analyze the overall job        
+execution performance.                                                          
